@@ -1,0 +1,10 @@
+﻿/* TODO: escrever o código em falta aqui... */
+.form {
+    font-family: 'Open Sans';
+}
+.grey-background {
+    background-color: grey;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
